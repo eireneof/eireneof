@@ -10,7 +10,7 @@
 - :rocket: I'm a participant in a technological innovation project: [Loodus](https://loodus.netlify.app/pt)
 - 👯 Who run the code?! **GIRLS!**
 - :sparkles: I really think we all can make a huge difference in people's lives.<br>And I particularly **love** to use technology for this.
-- 💬 Ask me about anything...especially romance books, animes and coffee ;-)
+- 💬 Ask me about anything...especially romance books, anime and coffee ;-)
 - :purple_heart: Pronouns: [She/Her](https://pronoun.is/she)
 - ⚡ Fun fact: My name comes from Greek and means *peace*.
 
