@@ -8,6 +8,7 @@
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - :computer: I’m currently learning web development with Angular and NestJS.
 - :rocket: I'm a participant in a technological innovation project: [Loodus](https://loodus.netlify.app/pt)
+- :dancer: Also member of [Katie](https://sites.google.com/ic.ufal.br/katie/in%C3%ADcio?authuser=0) an extension project to suport girls in computing
 - 👯 Who run the code?! **GIRLS!**
 - :sparkles: I really think we all can make a huge difference in people's lives.<br>And I particularly **love** to use technology for this.
 - 💬 Ask me about anything...especially romance books, anime and coffee ;-)
