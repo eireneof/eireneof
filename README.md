@@ -6,7 +6,7 @@
 ## Hello world! <img src="assets/Earth.gif" width="30px">
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
-- :computer: I’m currently learning web development with Angular and NestJS.
+- :computer: I’m currently learning web development with React and NestJS.
 - :rocket: I'm a participant in a technological innovation project: [Loodus](https://loodus.netlify.app/pt)
 - :dancer: Also member of [Katie](https://sites.google.com/ic.ufal.br/katie/in%C3%ADcio?authuser=0): an extension project to suport girls in computing
 - 👯 Who run the code?! **GIRLS!**
