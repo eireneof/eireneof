@@ -6,7 +6,7 @@
 ## Hello world! <img src="assets/Earth.gif" width="30px">
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
-- :rocket: I'm a dev trainee at [FCamara](https://www.fcamara.com.br/). #SangueLaranja 🧡
+- :rocket: I'm a dev trainee at [FCamara](https://www.fcamara.com.br/)  |  #SangueLaranja 🧡
 - :computer: I’m currently learning OWASP (Open Web Application Security Project)
 - :dancer: Also member of [Katie](https://sites.google.com/ic.ufal.br/katie/in%C3%ADcio?authuser=0): an extension project to suport girls in computing
 - 👯 Who run the code?! **GIRLS!**
