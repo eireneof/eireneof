@@ -1,6 +1,8 @@
 ## Hey, I'm Eirene  <img src="assets/Hi.gif" width="30px">
 
- <img align="right" alt="GIF" src="assets/tumblr_mt3lpxmL0v1r0dbsno1_500.gif" width="500" height="320" />
+<div align="center">
+  <img  alt="GIF" src="assets/tumblr_mt3lpxmL0v1r0dbsno1_500.gif" width="500" height="320" />
+ </div>
 
 
 ## Hello world! <img src="assets/Earth.gif" width="30px">
