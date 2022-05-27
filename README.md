@@ -12,7 +12,7 @@
 - :dancer: Also member of [Katie](https://sites.google.com/ic.ufal.br/katie/in%C3%ADcio?authuser=0): an extension project to suport girls in computing
 - 👯 Who run the code?! **GIRLS!**
 - :sparkles: I really think we all can make a huge difference in people's lives.<br>And I particularly **love** to use technology for this.
-- - :computer: I’m currently learning Angular and Unit Tests
+- :computer: I’m currently learning Angular and Unit Tests
 - 💬 Ask me about anything...especially romance books, anime and coffee ;-)
 - :purple_heart: Pronouns: [She/Her](https://pronoun.is/she)
 - ⚡ Fun fact: My name comes from Greek and means *peace*.
