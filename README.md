@@ -1,11 +1,11 @@
-## Hey, I'm Eirene  <img src="assets/Hi.gif" width="30px">
+## Hey, I'm Eirene  <img src="assets/Hi.gif" width="30">
 
 <div align="center">
   <img  alt="GIF" src="assets/tumblr_mt3lpxmL0v1r0dbsno1_500.gif" width="500" height="320" />
  </div>
 
 
-## Hello world! <img src="assets/Earth.gif" width="30px">
+## Hello world! <img src="assets/Earth.gif" width="30">
 
 - ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
 - :rocket: I'm a dev trainee at [FCamara](https://www.fcamara.com.br/)  |  #SangueLaranja 🧡
