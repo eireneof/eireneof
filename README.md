@@ -8,23 +8,21 @@
 
 ## Hello world! <img src="assets/Earth.gif" width="30">
 
-- ✍ I'm a computer science student at Ufal (Universidade Federal de Alagoas)
-- :rocket: I'm a jr. developer at [FCamara](https://fcamara.com/)  |  #SangueLaranja 🧡
-- :dancer: Also member of [Katie](https://ic.ufal.br/extensao/katie/): an extension project to suport girls in computing
-- 👯 Who run the code?! **GIRLS!**
-- :sparkles: I really think we all can make a huge difference in people's lives.<br>And I particularly **love** to use technology for this.
-- :computer: I’m currently learning Angular and Unit Tests
-- 💬 Ask me about anything...especially romance books, anime and coffee ;-)
+- 💻 Fullstack Developer at Luizalabs, the innovation and technology hub of [Magazine Luiza.](https://ri.magazineluiza.com.br/show.aspx?idCanal=Z7pywmj5YSW3wFVsMAhgAw==)
+- ✨ I really think we all can make a huge difference in people's lives. And I particularly **love** to use technology for this.
+- 💻 Currently solidifying my stack in React and Java, after a few years working with Angular and Node.
+- 🎓 Graduated in Computer Science from UFAL (Universidade Federal de Alagoas).
+- 💬 Ask me about anything...especially cats, coffee and the Hunger Games universe ;-)
 - ⚡ Fun fact: My name comes from Greek and means *peace*.
 
-<hr>
+<!-- <hr>
 
 <div align="center">
   <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eireneof&layout=compact&theme=radical"/>
   <img height="195em" src="https://github-readme-stats.vercel.app/api?username=eireneof&show_icons=true&theme=radical"/>
 </div>
 
-<hr>
+<hr> -->
 
 ## :sparkles: How to reach me: 
 
